@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="AshAidExample" package="com.example.ashaidexample" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="AshAidExample" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="ash-aid" />
+<!--	<haxelib name="openfl" />	
+	<haxelib name="openfl" /> -->
+
+	
+	<assets path="Assets" rename="assets" exclude="openfl.svg" />
+	<icon path="Assets/openfl.svg" />
+	
+</project>

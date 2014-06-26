@@ -1,0 +1,8 @@
+{
+    "root": [
+        {
+            "name": "Entity1",
+            "ExampleComponent":""
+        }
+    ]
+}
